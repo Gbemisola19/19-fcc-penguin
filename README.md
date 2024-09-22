@@ -1,6 +1,6 @@
-# Project Name
+# FCC Penguin
 
-> One paragraph statement about the project.
+> This is a project about css transforms by building a penguin
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,14 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML elements,
+  - `div`
+- CSS,
+  - `margin`, `transform`, `animation`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [stylelint](https://stylelint.io/)
+
 
 ## Live Demo
 
