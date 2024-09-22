@@ -1,6 +1,6 @@
 # FCC Penguin
 
-> This is a project about css transforms by building a penguin
+> This is a project about CSS transforms by building a penguin
 
 ![screenshot](./app_screenshot.png)
 
@@ -15,7 +15,6 @@ Additional description of the project and its features.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/)
-
 
 ## Live Demo
 
