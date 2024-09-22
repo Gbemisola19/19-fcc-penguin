@@ -14,7 +14,7 @@ Additional description of the project and its features.
   - `margin`, `transform`, `animation`
 - Linters
   - [Prettier](https://prettier.io/),
-  - [stylelint](https://stylelint.io/)
+  - [Stylelint](https://stylelint.io/)
 
 
 ## Live Demo
