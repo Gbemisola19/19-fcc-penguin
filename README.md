@@ -1,6 +1,6 @@
-# Project Name
+# FCC Penguin
 
-> One paragraph statement about the project.
+> This is a project about CSS transforms by building a penguin
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,13 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML elements,
+  - `div`
+- CSS,
+  - `margin`, `transform`, `animation`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +25,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/19-fcc-penguin.git
 
 ```
 
